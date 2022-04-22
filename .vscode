@@ -1,1 +1,11 @@
-
+{
+	"folders": [
+		{
+			"path": "D:\\WinAVR-20100110\\avr\\include"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"io.h": "c"
+		}
+	}
